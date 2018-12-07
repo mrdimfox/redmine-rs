@@ -1,0 +1,13 @@
+[package]
+name = "redmine"
+version = "0.0.1"
+authors = ["Björn Steinbrink <bsteinbr@gmail.com>"]
+edition = "2018"
+description = "A Redmine REST API client"
+readme = "README.md"
+repository = "https://github.com/dotdash/redmine-rs"
+license = "MIT OR Apache-2.0"
+keywords = ["redmine", "api"]
+categories = ["api-bindings"]
+
+[dependencies]
